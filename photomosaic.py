@@ -1,8 +1,3 @@
-"""
-Potential edit:
-- Find way to make this an online web application
-- Add constant for a name of pakc to choose between different packs of pictures
-"""
 import pickle, glob, os
 from PIL import Image
 import numpy as np
